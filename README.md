@@ -4,7 +4,6 @@
 - Updating.....
 
 ## Main technology
-- 
 - [react](https://github.com/facebook/react)
 - [react-router-dom](https://github.com/remix-run/react-router/tree/main/packages/react-router-dom)
 - [mui/material](https://github.com/mui/material-ui)
